@@ -3,7 +3,9 @@ My Spring 2024 term project for NYU's Applied Genomics graduate course (M.S. Bio
 
 ## Summary
 Topic: RNA-Seq (NGS), Saccharomyces cerevisiae
+
 Programming Languages: Linux (bash scripting), R (RStudio)
+
 Using data from Brar et al, this is a determination and analysis of average gene expression from the pericentromeric, subtelomeric, and centromeric regions of Chromosomes I to XVI on *Saccharomyces cerevisiae* (baker's yeast) during traditional time course meiosis.
 
 This project finds that the average gene expression for the genes in the pericentromeric, subtelomeric, and ribosomal regions is slightly decreased compared to the control group. A pattern appears of immense expression in the beginning stages of the meiotic timecourse (0.5 hours), followed by a drop leading to a second, smaller peak of expression at 24 hours in the time course.
